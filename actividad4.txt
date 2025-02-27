@@ -1,0 +1,69 @@
+1. INTRODUCIÓN 
+
+¿Por qué crees que el pseudocódigo es útil antes de escribir un programa en C?
+
+R/ Por que nos ayuda a generar una estructura y orientación antes de iniciar a programar.
+
+2. ESTRUCTURA BASICA DEL PSUDOCODIGO
+
+R/ 
+INICIO
+Leer x
+leer y
+resta = x - y 
+mostrar resta 
+FIN 
+
+3. TRADUCIENDO EL PSUDOCODIGO A C
+
+¿Por qué es importante declarar el tipo de variable (int, float, etc.) antes de usarla en C?
+
+R/ Para saber que tipo de de dato se va a guardar y asi no tener inconvenientes a la hora de
+operar o guardar datos en las variables.
+
+4. EJEMPLOS ADICIONALES DE PSUDOCODIGO Y SU TRADUCCION 
+
+Escribe tu propio pseudocódigo para calcular el promedio de una lista de calificaciones y 
+tradúcelo a C.
+
+R/ Psudocodigo 
+INICIO 
+leer N1
+leer N2
+leer N3
+leer N4
+promedio = (N1 + N2 + N3 + N4) / 4
+mostrar promedio 
+FIN 
+
+R/ C
+#include <stdio.h>
+
+int main() {
+    float N1, N2, N3, N4, promedio;
+
+    printf("Ingrese su primer nota: ");
+    scanf("%d", &N1);
+
+ printf("Ingrese su segunda nota: ");
+    scanf("%d", &N2);
+
+     printf("Ingrese su tercer nota: ");
+    scanf("%d", &N3);
+
+     printf("Ingrese su cuarta nota: ");
+    scanf("%d", &N4);
+    
+    promedio = (N1 + N2 + N3 + N4) / 4
+
+    printf("El promedio de tus notas es: %ld\n", promedio);
+
+    return 0;
+}
+
+5. BUENAS PRACTICAS 
+
+¿Por qué es importante comentar el código, aunque sea breve y conciso?
+
+R/ Para llevar una forma ordenada y estructurada del codigo y para saber que función realiza cada 
+bloque del programa.

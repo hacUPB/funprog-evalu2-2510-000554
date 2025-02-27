@@ -1,0 +1,169 @@
+1. ¿Qué es un computador? Escribe una definición oficial y la referencia bibliográfica.
+
+R/Una computadora, computador u ordenador1​2​3​ es una máquina programable que ejecuta una serie de comandos para procesar los datos 
+de entrada, obteniendo convenientemente información que posteriormente se envía a las unidades de salida. Una computadora está
+ compuesta por numerosos y diversos circuitos integrados y varios elementos de apoyo, extensión y accesorios, que en conjunto 
+ pueden ejecutar tareas diversas con suma rapidez y bajo el control de un programa (software).
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+2.Arquitecturas de un computador: dar una breve definición de qué es una arquitectura de computador. Describir cómo están
+ construidas y en qué equipos modernos se pueden encontrar.
+
+a. Arquitectura CISC. 
+
+R/ CISC (ordenador con conjunto de instrucciones complejas, por sus siglas en inglés) El CISC (ordenador con conjunto de
+ instrucciones complejas, por sus siglas en inglés) es un tipo de arquitectura de sistema informático que tiene todas las 
+ instrucciones posibles que se prevé que vaya a usar un ordenador.
+
+b.
+
+R/ Un ordenador con conjunto de instrucciones reducido, o RISC, es aquel que usa un procesador de arquitectura sencilla. 
+Su objetivo es mejorar el rendimiento informático asignando menos tareas. La alternativa a RISC se conoce como CISC 
+(ordenador con conjunto de instrucciones complejo, por sus siglas en inglés).
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+3.¿Qué es el hardware? Incluye los más relevantes, te voy a dar algunos elementos, pero si encuentras más, los puedes incluir.
+    A. CPU. Escribe una definición y sus partes más relevantes. 
+        - ALU. Definición y función.
+        - Unidad de control. Definición y función.
+        - Registros. Definición y función.
+        - Buses. Definición y función.
+
+R/ A. CPU (Unidad Central de Procesamiento)
+ Es el cerebro de la computadora, responsable de procesar las instrucciones y ejecutar las tareas. Se encarga de realizar 
+cálculos y tomar decisiones basadas en la información que recibe. Está compuesta por varias partes claves.
+
+*ALU (Unidad Aritmético-Lógica)
+Es el componente encargado de realizar operaciones matemáticas (suma, resta, multiplicación, división) y operaciones lógicas
+ (comparaciones y condiciones). Su función es procesar datos numéricos y lógicos para la ejecución de programas.
+
+*Unidad de Control
+Coordina el funcionamiento del procesador y el flujo de información dentro de la CPU. Su función es interpretar las instrucciones 
+del programa, gestionar la comunicación entre los componentes y controlar la ejecución de las operaciones en la ALU.
+
+*Registros
+Son pequeñas áreas de almacenamiento dentro de la CPU que guardan temporalmente datos e instrucciones que están en uso. 
+Su función es permitir el acceso rápido a la información para agilizar el procesamiento.
+
+*Buses
+Son canales de comunicación que transportan datos, direcciones e instrucciones entre los diferentes componentes de la 
+computadora. Su función es garantizar que la información fluya de manera eficiente dentro del sistema.
+
+
+B. Memoria:
+    - Registros
+    - Caché
+    - Principal (RAM)
+    - Secundaria (Disco duro y unidades externas de almacenamiento)
+
+R/ B. Memoria
+La memoria es un componente esencial del hardware que almacena datos e instrucciones necesarias para el funcionamiento 
+de la computadora. Se clasifica en diferentes niveles según su velocidad, capacidad y función.
+
+Tipos de memoria:
+Registros
+Son las memorias más rápidas y pequeñas dentro de la CPU. Almacenan datos temporalmente mientras se procesan las 
+instrucciones. Su función es proporcionar acceso inmediato a los valores que la CPU necesita para ejecutar operaciones.
+
+Memoria Caché
+Es una memoria intermedia entre la CPU y la RAM. Almacena datos de uso frecuente para reducir el tiempo de acceso y
+ mejorar el rendimiento del sistema. Su función es acelerar la ejecución de programas al minimizar el tiempo de espera de la CPU.
+
+Memoria Principal (RAM - Memoria de Acceso Aleatorio)
+Es una memoria volátil que almacena temporalmente los datos e instrucciones de los programas en ejecución. Su función
+ es proporcionar acceso rápido a la información que necesita la CPU para procesar tareas en tiempo real.
+
+Memoria Secundaria
+Es el almacenamiento permanente de la computadora. Se usa para guardar datos y programas a largo plazo. Se divide en:
+
+Disco Duro (HDD/SSD): Almacena el sistema operativo, programas y archivos del usuario. Los SSD son más rápidos y eficientes que los HDD.
+Unidades Externas (USB, discos externos, tarjetas de memoria): Permiten transportar y hacer copias de seguridad de información.
+
+C. Dispositivos de entrada / salida
+
+R/ C. Dispositivos de Entrada y Salida
+ Los dispositivos de entrada y salida (E/S) permiten la comunicación entre el usuario y la computadora.
+
+a. Dispositivos de Entrada
+Son aquellos que permiten ingresar datos y comandos a la computadora. Algunos ejemplos son:
+
+*Teclado: Introduce texto y comandos.
+
+*Ratón: Controla el cursor y selecciona elementos en la pantalla.
+
+*Micrófono: Captura sonido para grabaciones o videollamadas.
+
+*Escáner: Convierte documentos físicos en archivos digitales.
+
+*Cámara web: Captura imágenes y videos en tiempo real.
+
+b. Dispositivos de Salida
+Son aquellos que permiten a la computadora mostrar o transmitir información al usuario. Algunos ejemplos son:
+
+*Monitor: Muestra gráficos e información en pantalla.
+
+*Impresora: Transfiere datos digitales a formato físico.
+
+*Altavoces: Emiten sonidos y música.
+
+*Proyector: Muestra imágenes en una superficie externa.
+
+c. Dispositivos de Entrada/Salida (E/S)
+Son dispositivos que pueden tanto recibir como enviar información. Ejemplos:
+
+*Pantalla táctil: Funciona como monitor (salida) y permite interactuar con el sistema (entrada).
+
+*Memorias USB: Almacenan y transfieren datos.
+
+*Impresoras multifuncionales: Pueden imprimir (salida) y escanear documentos (entrada).
+
+*Discos duros externos: Almacenan datos y permiten su recuperación.
+
+D. Buses de datos
+
+R/ D. Bus de Datos
+ El bus de datos es un canal de comunicación que transporta información entre los diferentes componentes de la computadora,
+ especialmente entre la CPU, la memoria RAM y los dispositivos de entrada/salida.
+
+Características del Bus de Datos
+*Función: Transporta los datos que la CPU necesita procesar o enviar a otros dispositivos.
+
+*Ancho del Bus: Se mide en bits (8, 16, 32, 64, etc.) y determina la cantidad de datos que puede transferir simultáneamente.
+
+*Velocidad de Transferencia: Depende del ancho del bus y su frecuencia de operación, medida en megabytes por segundo (MB/s) o 
+gigabytes por segundo (GB/s).
+
+----------------------------------------------------------------------------------------------------------------------------------------
+4. ¿Qué es el software?
+    A. Software de sistema
+    B. Software de aplicación
+    C. Software de desarrollo
+
+R/ 4. El software es el conjunto de programas, instrucciones y datos que permiten el funcionamiento de una computadora. Es
+ la parte lógica del sistema, encargada de gestionar el hardware y proporcionar herramientas para que el usuario realice tareas 
+ específicas.
+
+A. Software de Sistema:
+
+Es el encargado de gestionar el hardware y proporcionar una base para que otros programas funcionen.
+Ejemplos:
+Sistema Operativo (Windows, macOS, Linux, Android, iOS): Administra los recursos del hardware y permite la ejecución de programas.
+Controladores (Drivers): Permiten la comunicación entre el sistema operativo y los dispositivos de hardware (impresoras, tarjetas
+gráficas, etc.).
+Utilidades del sistema: Programas como antivirus, herramientas de limpieza y gestión de discos.
+
+B.Software de Aplicación:
+
+Son los programas diseñados para realizar tareas específicas para el usuario.
+Ejemplos:
+Navegadores web (Google Chrome, Mozilla Firefox): Para acceder a internet.
+Procesadores de texto (Microsoft Word, Google Docs): Para la creación de documentos.
+Reproductores multimedia (VLC, Windows Media Player): Para reproducir audio y video.
+Aplicaciones móviles (WhatsApp, Instagram, Spotify): Para comunicación, entretenimiento y más.
+
+C. Software de Desarrollo:
+
+También llamado software de programación, incluye herramientas utilizadas por los desarrolladores para crear nuevos programas y 
+aplicaciones.
+
